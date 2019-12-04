@@ -1,0 +1,3 @@
+Scenario #1: 0.028092
+Scenario #2: -1
+Scenario #3: 37.79
